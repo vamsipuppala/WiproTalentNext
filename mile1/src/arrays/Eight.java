@@ -1,5 +1,5 @@
 package arrays;
-//import java.lang.*;
+import java.lang.*;
 public class Eight{
     public static void main(String args[]) {
     int n=args.length;
