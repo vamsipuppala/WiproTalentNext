@@ -1,0 +1,5 @@
+Anitha:2
+Janani:1
+Wipro:6
+at:6
+works:6
